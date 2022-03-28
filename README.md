@@ -1,2 +1,2 @@
 # Mathematics-Capstone-Project
-Analyzing game theory in soccer tactics
+Analyzing game theory in soccer tactics.
